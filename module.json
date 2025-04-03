@@ -3,7 +3,7 @@
     "author": "<font color='#297229'>Original by Fruit, modified by merusira</font>",
     "description": "Remove allies bodyblock.",
     "version": "<font color='#800000'>1.0.0</font>",
-    "servers": ["https://raw.githubusercontent.com/merusira/3104-antibodyblock/"],
+    "servers": ["https://raw.githubusercontent.com/merusira/3104-antibodyblock-master/"],
     "options": {
         "niceName": "3104 anti-bodyblock",
         "guiName": "<font color='#7558cd'>3104 Anti Bodyblock</font>",
