@@ -1,0 +1,17 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "3104 anti-bodyblock",
+    "author": "<font color='#297229'>Original by Fruit, modified by merusira</font>",
+    "description": "Remove allies bodyblock.",
+    "version": "<font color='#800000'>1.0.0</font>",
+    "servers": ["https://raw.githubusercontent.com/merusira/3104-antibodyblock/"],
+    "options": {
+        "niceName": "Anti Bodyblock",
+        "guiName": "<font color='#7558cd'>3104 Anti Bodyblock</font>",
+		"cliName": "Anti Bodyblock"
+		"settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    }
+}
