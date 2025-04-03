@@ -1,9 +1,0 @@
-{
-  "files": {
-    "config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
-    "index.js": "e6885708112ec777fd37d8d4fc37be6547b9a7422ff72aed9a68da196a847c49",
-    "module.json": "ed4928bcabbdd418ef90360abad0919f9ce51560a9ca9728c0a7c15709835bfd",
-    "README.md": "1f184e2a8e8f053e50e4b488b70843a6bcb3cd32d99e7486fcc11399cb4631af",
-    "settings_migrator.js": "8c0a46a38fa41e7058e574dc89705004c3271cd8938e202aa07e5c4ce97e8c57"
-  }
-}
